@@ -1,5 +1,5 @@
 export const FurnitHeader = {
-    title: 'Фурнитура', sub: 'Winkhaus', img: "/title/titlef.jpeg"
+    title: 'Фурнитура', sub: 'Maco', img: "/title/titlef.jpeg"
 }
 
 export const FurnitCard = [
@@ -29,7 +29,7 @@ export const FurnitPrice = [
     },
     {
         text: 'ручка с ключом белая',
-        price: '900руб'
+        price: '800руб'
     },
     {
         text: 'ручка-зацеп для б/двери пластиковая',
@@ -45,22 +45,22 @@ export const FurnitPrice = [
     },
     {
         text: 'Установка детского замка',
-        price: '650руб'
+        price: '600руб'
     },
     {
-        text: 'Полная замена поворотно-откидной фурнитуры на окне Winkhaus',
-        price: '3300руб'
+        text: 'Полная замена поворотно-откидной фурнитуры на окне Maco',
+        price: '3400руб'
     },
     {
-        text: 'Полная замена поворотно-откидной фурнитуры на б/двери Winkhaus',
-        price: '3700руб'
+        text: 'Полная замена поворотно-откидной фурнитуры на б/двери Maco',
+        price: '3800руб'
     },
     
 ]
 
 export const FurnitInfoText = 
     {
-        title: 'Winkhaus',
+        title: 'Maco',
         text: `Оконные системы от Winkhaus объединяют в себе инновационные технологии и высокое качество.
         Современный дизайн эргономия и эстетика выполнения каждого элемента дополнительно подчеркивают высокое качество и потребительские достоинства продукции Winkhaus`
     }
